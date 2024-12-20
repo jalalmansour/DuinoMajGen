@@ -1,4 +1,4 @@
-name: fooocus
+name: DuinoMajGen
 channels:
   - defaults
 dependencies:
